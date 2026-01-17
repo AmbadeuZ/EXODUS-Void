@@ -39,7 +39,7 @@ Device & Platform
 
 - Device Codename:sweet  
 - Base ROM:** AOSP-based  
-- Android Version 
+- Android Version 11-16
 
 > Flashing on unsupported devices is not tolerated by this kernel.
 
